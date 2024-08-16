@@ -1,0 +1,271 @@
+{
+  "common": {
+    "title": "Improve",
+    "description": "Hi, I'm Improve Specializing in full-stack development, I've spent the last two years creating seamless user experiences, optimizing performance, and ensuring security. Currently, I'm enhancing my freelancing business and staying at the forefront of emerging technologies."
+  },
+  "header": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Arabic"
+  },
+  "footer": {
+    "subscribeText": "Crafting exceptional digital experiences. Subscribe for web design tips, industry insights, and exclusive updates.",
+    "subscribeButton": "Subscribe",
+    "emailPlaceholder": "Your email",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "resources": "Resources",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "copyright": "© {year} {title}. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "home": {
+    "hero": {
+      "title": "Building unique digital brands for your business",
+      "subtitle": "Crafting Distinctive Online Identities That Set You Apart",
+      "description": "Transform your business with our bespoke digital branding solutions. We blend creativity, strategy, and technology to create a unique online presence that resonates with your audience and drives growth.",
+      "exploreButton": "Explore Solutions"
+    },
+    "aboutUs": {
+      "title": "Web Experts: Crafting Digital Experiences to Transform Your Business Online",
+      "description": "We transform ideas into stunning digital experiences, combining creativity with cutting-edge technology. Our team of dedicated developers and designers work hard to bring your vision to life, creating websites that not only look impressive but also deliver exceptional user experiences.",
+      "button": "Discover our digital expertise"
+    },
+    "comparison": {
+      "title": "When people",
+      "do": "do",
+      "dont": "don't",
+      "workWithUs": "work with us.",
+      "doButton": "Do",
+      "dontButton": "Don't",
+      "buildButton": "Let's build something",
+      "creative": {
+        "title": "Creative Expertise",
+        "description": "Unique designs tailored to your brand, captivating users with innovative visuals."
+      },
+      "responsive": {
+        "title": "Responsive Designs",
+        "description": "Ensuring seamless experiences across all devices, maximizing user engagement and satisfaction."
+      },
+      "seo": {
+        "title": "SEO Optimization",
+        "description": "Elevating your online presence with strategies that boost search engine rankings effectively."
+      },
+      "custom": {
+        "title": "Custom Solutions",
+        "description": "Crafting bespoke websites that meet your specific needs, enhancing functionality and user experience."
+      },
+      "turnaround": {
+        "title": "Quick Turnaround",
+        "description": "Meeting deadlines consistently, providing reliable services without compromising quality or efficiency."
+      },
+      "support": {
+        "title": "Exceptional Support",
+        "description": "Dedicated assistance during and after project completion, ensuring client satisfaction and success."
+      },
+      "generic": {
+        "title": "Generic Designs",
+        "description": "Settling for uninspired templates, failing to differentiate your brand in a crowded market."
+      },
+      "poorUX": {
+        "title": "Poor User Experience",
+        "description": "Teams not working together well, making it hard to achieve common goals and tasks."
+      },
+      "lowVisibility": {
+        "title": "Low Visibility",
+        "description": "Bad vibes at work make people unhappy, lowering how much work gets done."
+      },
+      "limited": {
+        "title": "Limited Functionality",
+        "description": "People doing the wrong jobs aren't happy, and it makes the work not so good."
+      },
+      "missed": {
+        "title": "Missed Deadlines",
+        "description": "Work processes are done poorly, taking too much time and money due to inefficient methods."
+      },
+      "inadequate": {
+        "title": "Inadequate Support",
+        "description": "People argue a lot, making it tough for the team to stay together and work well."
+      }
+    },
+    "solutions": {
+      "title": "Our Solutions",
+      "description": "Discover our range of services",
+      "readMore": "Read more",
+      "solutions": {
+        "webDevelopment": {
+          "title": "Web Development",
+          "description": "Crafting digital masterpieces that captivate and convert. We turn your vision into pixel-perfect reality, blending cutting-edge technology with stunning design to create websites that not only look great but perform brilliantly across all devices."
+        },
+        "eCommerce": {
+          "title": "eCommerce Solutions",
+          "description": "Building online stores that sell. Our eCommerce solutions are designed to maximize conversions, streamline operations, and provide seamless shopping experiences. From intuitive product catalogs to secure payment gateways, we create digital marketplaces that drive sales and foster customer loyalty."
+        },
+        "uiUxDesign": {
+          "title": "UI/UX Design",
+          "description": "Designing interfaces that users fall in love with. Our UI/UX design process focuses on creating intuitive, engaging, and visually appealing interfaces that enhance user satisfaction and drive engagement. We combine aesthetics with functionality to deliver experiences that keep users coming back."
+        },
+        "seoContent": {
+          "title": "SEO & Content Strategy",
+          "description": "Boosting your digital presence with targeted SEO and compelling content. Our strategies are designed to improve your search engine rankings, increase organic traffic, and engage your audience with valuable, relevant content that converts visitors into customers."
+        },
+        "socialMedia": {
+          "title": "Social Media Marketing",
+          "description": "Amplifying your brand's voice across social platforms. We create and execute social media strategies that build brand awareness, foster community engagement, and drive conversions. From content creation to campaign management, we help you leverage the power of social media to grow your business."
+        },
+        "webHosting": {
+          "title": "Web Hosting & Maintenance",
+          "description": "Keeping your digital home secure and speedy. Our web hosting and maintenance services ensure your website stays up-to-date, secure, and performs optimally. We handle the technical details so you can focus on growing your business, providing regular updates, security patches, and performance optimizations."
+        }
+      },
+      "cta": {
+        "text": "Ready to get started?",
+        "button1": "Contact Us",
+        "button2": "Learn More"
+      }
+    },
+    "feedback": {
+      "title": "Client Testimonials",
+      "description": "Discover what our clients are saying about our innovative services and solutions.",
+      "testimonial": {
+        "quote": "Thanks to their innovative digital transformation services, our small business has seen a remarkable 50% increase in online sales. Their creative solutions and ongoing support have been invaluable.",
+        "author": "Michael Smith",
+        "company": "E-commerce Entrepreneur"
+      },
+      "reviews": {
+        "Sarah Ahmed": {
+          "name": "Sarah Ahmed",
+          "role": "Tech Innovations Co.",
+          "body": "They helped us develop an amazing website and improve our digital presence. We've seen a significant increase in traffic and sales since launching our new site."
+        },
+        "Mohammed Al-Rashid": {
+          "name": "Mohammed Al-Rashid",
+          "role": "Online Cosmetics Store",
+          "body": "The e-commerce solutions transformed our business. Our site is now fast, user-friendly, and secure, resulting in a 40% increase in conversions."
+        },
+        "Layla Mahmoud": {
+          "name": "Layla Mahmoud",
+          "role": "Food and Travel Blogger",
+          "body": "Their SEO strategies significantly boosted my blog's rankings. I'm now getting more visitors and engagement than ever before."
+        },
+        "Karim Nour": {
+          "name": "Karim Nour",
+          "role": "Financial Services Firm",
+          "body": "The technical expertise and creativity of their team are unmatched. They developed a complex web application for our company, greatly enhancing our efficiency and customer experience."
+        },
+        "Nadia El-Masri": {
+          "name": "Nadia El-Masri",
+          "role": "Travel Agency",
+          "body": "Their digital marketing campaigns increased our bookings by 60%. They truly understand how to reach our target audience and convert interest into sales."
+        },
+        "Hassan Zaki": {
+          "name": "Hassan Zaki",
+          "role": "Online Furniture Store",
+          "body": "The UI/UX design transformed our website into an attractive and user-friendly platform. We've seen a significant decrease in cart abandonment rates and an increase in sales."
+        }
+      }
+    },
+   "seo": {
+      "title": "Improve - Innovative Web Development and Digital Solutions",
+      "description": "Improve: Your partner for innovative web development and digital solutions. We specialize in creating stunning websites, robust e-commerce platforms, and effective digital marketing strategies to help your business thrive online."
+    }
+  },
+  "about": {
+    "title": "Crafting Digital Experiences That Drive Success and Transform Businesses",
+    "subtitle": "We're passionate about creating innovative web solutions that empower businesses to thrive in the digital landscape.",
+    "stats": {
+      "websites": {
+        "number": "50+",
+        "title": "Websites Launched",
+        "description": "We've successfully designed and developed over 50 websites for diverse clients."
+      },
+      "traffic": {
+        "number": "200%",
+        "title": "Average Traffic Increase",
+        "description": "Our SEO strategies have boosted client traffic by an average of 200%."
+      },
+      "ecommerce": {
+        "number": "10+",
+        "title": "eCommerce Stores",
+        "description": "We've built and optimized over 10 successful online stores."
+      },
+      "reviews": {
+        "number": "100+",
+        "title": "5-Star Reviews",
+        "description": "Over 100 clients have given us 5-star ratings for our web services."
+      }
+    },
+    "whoWeAre": {
+      "title": "Who We Are",
+      "description": "We're a team of passionate web developers, designers, and digital marketers dedicated to creating exceptional online experiences. Our expertise spans across web development, UI/UX design, SEO, and eCommerce solutions."
+    },
+    "ourStory": {
+      "title": "Our Story",
+      "description": "Founded in 2018, we've grown from a small web design studio to a comprehensive digital solutions provider. Our journey has been fueled by a passion for innovation, a commitment to quality, and a drive to help businesses succeed online."
+    },
+    "coreValues": {
+      "title": "Our Core Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "We stay at the forefront of web technologies to deliver cutting-edge solutions."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "We're committed to delivering high-quality work that exceeds expectations."
+      },
+      "clientSuccess": {
+        "title": "Client Success",
+        "description": "Your success is our success. We tailor our solutions to meet your unique business goals."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "Our diverse team of web developers, designers, and digital marketers brings a wealth of experience and creativity to every project. Together, we turn complex challenges into elegant digital solutions."
+    },
+    "joinTeam": {
+      "title": "Join Our Team",
+      "description": "We're always on the lookout for talented individuals passionate about web development and digital innovation. If you're excited about creating amazing online experiences, we'd love to hear from you.",
+      "button": "View Open Positions"
+    }
+  },
+  "contact": {
+    "title": "Do you have a project you need help with? Contact us!",
+    "form": {
+      "name": {
+        "label": "Your name:",
+        "placeholder": "Your name"
+      },
+      "email": {
+        "label": "Your email:",
+        "placeholder": "hey@madebykota.com"
+      },
+      "message": {
+        "label": "Tell us about your project:",
+        "placeholder": "We would love to know the scope, timeline and budget"
+      },
+      "submit": "SUBMIT"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We offer a comprehensive range of digital services to help your business grow and thrive online.",
+    "imageAlt": "Illustration of our digital services",
+    "solutions": {
+      "title": "Our Solutions",
+      "description": "Discover our range of specialized services",
+      "readMore": "Read more"
+    }
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "description": "Explore our diverse range of projects showcasing our expertise in web development and design.",
+    "viewProject": "View Project"
+  }
+}
