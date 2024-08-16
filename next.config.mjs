@@ -15,6 +15,9 @@ const nextConfig = {
       },
     ],
   },
+  experimental: {
+    appDir: true,
+  },
 };
 
 export default withNextIntl(nextConfig);
