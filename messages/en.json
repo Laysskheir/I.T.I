@@ -15,7 +15,7 @@
     "subscribeButton": "Subscribe",
     "emailPlaceholder": "Your email",
     "company": "Company",
-    "aboutUs": "About Us",
+    "about": "About Us",
     "services": "Services",
     "contact": "Contact",
     "resources": "Resources",
@@ -172,7 +172,7 @@
         }
       }
     },
-   "seo": {
+    "seo": {
       "title": "Improve - Innovative Web Development and Digital Solutions",
       "description": "Improve: Your partner for innovative web development and digital solutions. We specialize in creating stunning websites, robust e-commerce platforms, and effective digital marketing strategies to help your business thrive online."
     }
@@ -208,7 +208,7 @@
     },
     "ourStory": {
       "title": "Our Story",
-      "description": "Founded in 2018, we've grown from a small web design studio to a comprehensive digital solutions provider. Our journey has been fueled by a passion for innovation, a commitment to quality, and a drive to help businesses succeed online."
+      "description": "Founded in 2023, we've grown from a small web design studio to a comprehensive digital solutions provider. Our journey has been fueled by a passion for innovation, a commitment to quality, and a drive to help businesses succeed online."
     },
     "coreValues": {
       "title": "Our Core Values",
@@ -237,6 +237,7 @@
   },
   "contact": {
     "title": "Do you have a project you need help with? Contact us!",
+    "description": "Get in touch with our team for personalized advice on your next home renovation project or to schedule a consultation with one of our expert designers.",
     "form": {
       "name": {
         "label": "Your name:",

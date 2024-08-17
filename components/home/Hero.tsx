@@ -67,7 +67,7 @@ const Hero = () => {
               className="w-full sm:w-auto text-primary"
               asChild
             >
-              <Link href={`/${locale}/portfolio`}>{t("exploreButton")}</Link>
+              <Link href={`/${locale}/services`}>{t("exploreButton")}</Link>
             </Button>
           </motion.div>
         </div>

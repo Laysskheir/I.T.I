@@ -38,7 +38,7 @@ const AboutPage = () => {
         {t("title")}
       </h1>
       <p className="text-lg sm:text-xl lg:text-2xl mb-8 sm:mb-10 lg:mb-12">
-        {t("description")}
+        {t("subtitle")}
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 mb-12 sm:mb-16">

@@ -21,9 +21,7 @@ const ContactPage = () => {
         {t("title")}
       </h1>
       <p className="text-lg text-muted-foreground mb-20 text-center max-w-2xl mx-auto">
-        Get in touch with our team for personalized advice on your next home
-        renovation project or to schedule a consultation with one of our expert
-        designers.
+      {t("description")}
       </p>
       <div className="bg-background w-full">
         <form onSubmit={handleSubmit} className="space-y-8 ">

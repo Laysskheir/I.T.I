@@ -23,6 +23,7 @@ const Header = () => {
   const pathname = usePathname();
   const locale = useLocale();
   const isDesktop = useMediaQuery("(min-width: 1024px)");
+  const isRTL = locale === "ar";
 
   const switchLanguage = (newLocale: string) => {
     const currentPath = pathname.replace(`/${locale}`, "");
@@ -86,7 +87,7 @@ const Header = () => {
                   <Icons.menu className="w-5 h-5" />
                 </Button>
               </SheetTrigger>
-              <SheetContent>
+              <SheetContent side={isRTL ? "left" : "right"}>
                 <div className="flex flex-col space-y-4 mt-8">
                   {menuItems.map((item) => (
                     <Button

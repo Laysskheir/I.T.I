@@ -80,9 +80,12 @@ export default function Solutions() {
               </CardContent>
               <CardFooter className="flex justify-end mt-auto">
                 <div className="transition-all duration-300 ease-in-out relative">
-                  <span className="relative z-10 text-sm sm:text-base">
+                  <Link
+                    href={`/${locale}/about`}
+                    className="relative z-10 text-sm sm:text-base"
+                  >
                     {t("readMore")} →
-                  </span>
+                  </Link>
                   <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-current transition-all duration-300 ease-in-out group-hover:w-full"></span>
                 </div>
               </CardFooter>

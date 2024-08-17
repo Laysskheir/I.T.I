@@ -13,7 +13,7 @@ const Footer = () => {
   const footerLinks = [
     {
       title: t("company"),
-      links: ["aboutUs", "services", "contact"],
+      links: ["about", "services", "contact"],
     },
     {
       title: t("resources"),
@@ -93,7 +93,7 @@ const Footer = () => {
               {t("termsOfService")}
             </Link>
           </div>
-          <div className="flex space-x-4">
+          <div className="flex ">
             {socialLinks.map((link, index) => (
               <Link
                 key={index}
@@ -103,7 +103,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 aria-label={`Visit our ${link.icon.name} page`}
               >
-                <link.icon className="w-6 h-6" />
+                <link.icon className="w-6 h-6 mx-2" />
               </Link>
             ))}
           </div>

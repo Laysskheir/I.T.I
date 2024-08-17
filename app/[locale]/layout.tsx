@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import { unstable_setRequestLocale } from 'next-intl/server';
 
 export function generateStaticParams() {
-  return [{ locale: "en" }, { locale: "ar" }];
+  return [{ locale: "ar" }, { locale: "en" }];
 }
 
 export default async function LocaleLayout({
