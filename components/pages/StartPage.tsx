@@ -40,6 +40,13 @@ export default function StartPage() {
             width="100%"
             height="600"
           />
+
+          <h1>Hollo Live Video Embed with agent-id and live.next.hollo.ai</h1>
+          <iframe
+            src="https://live.next.hollo.ai/live?agent-id=laysskheir"
+            width="100%"
+            height="600"
+          />
           {/* Hollo Live Video Embed without agent-id */}
           <h1>Hollo Live Video Embed without agent-id</h1>
           <iframe
