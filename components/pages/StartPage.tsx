@@ -32,6 +32,29 @@ export default function StartPage() {
       <main>
         <div className="space-y-10">
           <Hero />
+
+          {/* Hollo Live Video Embed with agent-id */}
+          <h1>Hollo Live Video Embed with agent-id</h1>
+          <iframe
+            src="https://next.hollo.ai/live?agent-id=laysskheir"
+            width="100%"
+            height="600"
+          />
+          {/* Hollo Live Video Embed without agent-id */}
+          <h1>Hollo Live Video Embed without agent-id</h1>
+          <iframe
+            src="https://laysskheir.next.hollo.ai/live"
+            width="100%"
+            height="600"
+          />
+          {/* Localhost Live Video Embed with agent-id */}
+          <h1>Localhost Live Video Embed with agent-id</h1>
+          <iframe
+            src="http://localhost:3000/live?agent-id=laysskheir"
+            width="100%"
+            height="600"
+          ></iframe>
+
           <AboutUs />
           <Solutions />
           <ComparisonSection />
