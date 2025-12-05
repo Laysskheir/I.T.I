@@ -9,6 +9,7 @@ import ComparisonSection from "@/components/home/ComparisonSection";
 import Lenis from "@studio-freight/lenis";
 
 import { useEffect } from "react";
+import Script from "next/script";
 import Seo from "@/components/Seo";
 
 export default function StartPage() {
@@ -32,6 +33,9 @@ export default function StartPage() {
       <main>
         <div className="space-y-10">
           <Hero />
+
+          <Script src="https://unpkg.com/hollo-embed" strategy="afterInteractive" />
+          <hollo-embed agent-id="9b899b4f-4e6d-4fa0-87a5-62cb7a124c71"></hollo-embed>
 
           {/* Hollo Live Video Embed with agent-id */}
           <iframe
