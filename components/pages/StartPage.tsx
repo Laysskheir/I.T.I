@@ -35,7 +35,7 @@ export default function StartPage() {
           <Hero />
 
           <Script src="https://unpkg.com/hollo-embed" strategy="afterInteractive" />
-          <hollo-embed agent-id="9b899b4f-4e6d-4fa0-87a5-62cb7a124c71"></hollo-embed>
+          <hollo-embed agent-id="e9cb80ee-08da-4fa1-b42e-9fa2090b2b2c"></hollo-embed>
 
           {/* Hollo Live Video Embed with agent-id */}
           <iframe
